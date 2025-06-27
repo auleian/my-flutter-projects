@@ -76,7 +76,7 @@ class _MyWidgetState extends State<HomeScreen> {
                         SvgPicture.network(
                           'https://www.svgrepo.com/show/505500/shirt.svg',
                           width: 5,
-                          height: 5,
+                          height: 5
                         ),
                         SizedBox(height: 5,),
                         Text("Home", style: TextStyle(color: Colors.white),)
